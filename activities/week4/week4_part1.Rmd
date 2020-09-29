@@ -1,6 +1,6 @@
 ---
 title: "Week 4 Activity"
-author: 'Group X: A, B, C, D'
+author: 'Group 7: Kyle William Schulz, Moeki Kurita,Yanhan Si'
 date: "9/29/2020"
 output: html_document
 ---
