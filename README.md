@@ -15,3 +15,7 @@ https://jbhender.github.io/Stats506/F20/
 ### Week 3
 - Git and Rmarkdown
 - Role: Record Keeper
+
+### Weeks 4-6
+- https://github.com/mk-repos/Stats506_public
+- https://github.com/kylewschulz/Stats506_public
