@@ -1,21 +1,32 @@
 # Stats506_public
 
+This repository contains the source files of group activities and projects for STATS 506 F20. 
+
 ## ABOUT 
 
-https://jbhender.github.io/Stats506/F20/
+* Course Homepage: https://jbhender.github.io/Stats506/F20/
+* Course Github Repository: https://github.com/jbhender/Stats506_F20/
 
 ## Activities
 
-### Week 1
-- Shell scripting
-- Role: Project Manager
-### Week 2
-- R programming
-- Role: Editor
-### Week 3
-- Git and Rmarkdown
-- Role: Record Keeper
+### Weeks 1-3
+- Week 1
+  - Shell scripting
+  - Role: Project Manager
+- Week 2
+  - R programming
+  - Role: Editor
+- Week 3
+  - Git and Rmarkdown
+  - Role: Record Keeper
 
 ### Weeks 4-6
-- https://github.com/mk-repos/Stats506_public
-- https://github.com/kylewschulz/Stats506_public
+- Team members repo links
+  - https://github.com/mk-repos/Stats506_public
+  - https://github.com/kylewschulz/Stats506_public
+- Week 4
+  - Tidyverse 
+  - Role: Editor
+- Week 5
+  - ggplot2
+  - Role: Record Keeper
