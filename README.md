@@ -30,3 +30,10 @@ This repository contains the source files of group activities and projects for S
 - Week 5
   - ggplot2
   - Role: Record Keeper
+  
+### Group project
+- Repo
+  - https://github.com/yanhan-si/Stats506_group
+- Team members repo links
+  - https://github.com/hhaohe513/Stats506_public
+  - https://github.com/Ranynola/Stats506_public
